@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://Ayu-AC.github.io/sitemap.xml
